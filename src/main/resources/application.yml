@@ -1,9 +1,9 @@
 
 mySpring: 
   jms:
-    username: JMS Username
-    password: somepass
-    url: SomeURL
+    username: JMS Username$$yml
+    password: somepass$$yml
+    url: SomeURL$$yml
     
 ---
 spring: 
