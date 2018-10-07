@@ -1,0 +1,11 @@
+#This is yaml properties file
+name: ramakrishna
+names: #This is a list
+    -Hindu
+    -Ramakrishna
+
+book:
+    author: rama
+    publisher: random
+
+    

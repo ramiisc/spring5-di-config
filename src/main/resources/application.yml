@@ -1,0 +1,13 @@
+
+mySpring: 
+  jms:
+    username: JMS Username
+    password: somepass
+    url: SomeURL
+    
+---
+spring: 
+  profiles: de
+mySpring: 
+  jms:
+    username: JMS Username$$$German
